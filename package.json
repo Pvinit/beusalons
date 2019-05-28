@@ -1,0 +1,21 @@
+{
+  "name": "beusalons",
+  "version": "1.0.0",
+  "description": "first round demo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vineet kumar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.11",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}
